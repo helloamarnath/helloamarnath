@@ -10,11 +10,8 @@ The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=r
 | [**FrontEnd - ReactJS Ecommerce Application Admin Panel with RestAPI**](https://github.com/denocart/ecommerce-reactjs-rest-api) | [![GitHub issues](https://img.shields.io/github/issues/denocart/ecommerce-reactjs-rest-api?color=green&logo=github&style=flat)](https://github.com/denocart/ecommerce-reactjs-rest-api/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/denocart/ecommerce-reactjs-rest-api?style=flat&logo=github)](https://github.com/denocart/ecommerce-reactjs-rest-api/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/denocart/ecommerce-reactjs-rest-api?style=flat&color=critical&logo=github)](https://github.com/denocart/ecommerce-reactjs-rest-api/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**BackEnd - Ecommerce Application RestAPI using NodeJS,Typescript and MongoDB**](https://github.com/denocart/ecommerce-nodejs-rest-api) | [![GitHub issues](https://img.shields.io/github/issues/denocart/ecommerce-nodejs-rest-api?color=green&logo=github&style=flat)](https://github.com/denocart/ecommerce-nodejs-rest-api/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/denocart/ecommerce-nodejs-rest-api?style=flat&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/denocart/ecommerce-nodejs-rest-api?style=flat&color=critical&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls?q=is%3Apr+is%3Aclosed)   |
 
-<sup>**[Click here](https://www.helloamarnath.com)** *to view my protfolio.</sup>*
-
-**Say Hi on Twitter([@helloamarnath](https://twitter.com/helloamarnath))!** :heart: 💬
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/helloamarnath?style=social)](https://twitter.com/helloamarnath)
+<br />
+**visit my portfolio & Blog  on ([www.helloamarnath.com](https://www.helloamarnath.com))!** :heart: 💬
 
 - 🔭 I’m currently working on ReactJS, GraphQL, NodeJS and DenoJS
 - 🌱 I’m currently Learning GraphQL & DenoJS
@@ -23,9 +20,9 @@ The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=r
 - 💬 Ask me about NodeJS, DenoJS, GraphQL and ReactJS
 
 <!-- * 🤝 &nbsp; Contribute to Open Source Projects -->
-
+💻 &nbsp; Hire me on upwork [![Upwork](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/upwork.png)](https://www.upwork.com/o/profiles/users/~0151f08e97cf39660b/)
 <br />
 📩 &nbsp; Feel free to contact me. I am always there for you...
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/linkedin-icon.png)](https://www.linkedin.com/in/helloamarnath/) &nbsp;&nbsp; [![Twitter](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/twitter-icon.png)](https://twitter.com/helloamarnath/) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/instagram-icon.png)](https://www.instagram.com/helloamarnath/) &nbsp;&nbsp; [![Facebook](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/facebook-icon.png)](https://facebook.com/helloamarnath/)
-
+&nbsp;&nbsp; [![Facebook](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/whatsapp.png)](https://facebook.com/helloamarnath/)
