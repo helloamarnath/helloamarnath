@@ -12,7 +12,7 @@ The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=r
  [**BackEnd - Ecommerce Application RestAPI using NodeJS,Typescript and MongoDB**](https://github.com/denocart/ecommerce-nodejs-rest-api) | [![GitHub issues](https://img.shields.io/github/issues/denocart/ecommerce-nodejs-rest-api?color=green&logo=github&style=flat)](https://github.com/denocart/ecommerce-nodejs-rest-api/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/denocart/ecommerce-nodejs-rest-api?style=flat&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/denocart/ecommerce-nodejs-rest-api?style=flat&color=critical&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <br />
-visit my portfolio & Blog  on  [**www.helloamarnath.com**](https://www.helloamarnath.com)  :heart: 💬
+  **visit my portfolio & Blog ** 🌍 https://www.helloamarnath.com  :heart: 💬
 
 - 🔭 I’m currently working on ReactJS, GraphQL, NodeJS and DenoJS
 - 🌱 I’m currently Learning GraphQL & DenoJS
@@ -27,3 +27,6 @@ visit my portfolio & Blog  on  [**www.helloamarnath.com**](https://www.helloamar
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/linkedin-icon.png)](https://www.linkedin.com/in/helloamarnath/) &nbsp;&nbsp; [![Twitter](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/twitter-icon.png)](https://twitter.com/helloamarnath/) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/instagram-icon.png)](https://www.instagram.com/helloamarnath/) &nbsp;&nbsp; [![Facebook](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/facebook-icon.png)](https://facebook.com/helloamarnath/)
 &nbsp;&nbsp; [![Facebook](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/whatsapp.png)](https://facebook.com/helloamarnath/)
+
+<br/>
+✊🏿 &nbsp; Black Lives Matter.
