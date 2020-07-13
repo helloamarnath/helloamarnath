@@ -1,17 +1,18 @@
 ### Hi there 👋
 **Glad to see you here!** 🤩
 <br />
-The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/helloamarnath/) Outside of [GitHub](https://github.com/helloamarnath/), catch me for a quick best of 3 in the **badminton** :badminton: court! You can **find me on [LinkedIn](https://www.linkedin.com/in/helloamarnath/)**. Currently I'm **looking for contributions** for following projects:
+The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/helloamarnath/) Outside of [GitHub](https://github.com/helloamarnath/), catch me for a quick best of 3 in the  🍔 **Food** court with foodies, You can **find me on [LinkedIn](https://www.linkedin.com/in/helloamarnath/)**, Currently I'm **looking for opensource contributions** for my following projects:
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/helloamarnath) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=helloamarnath.visitor-badge)](https://github.com/helloamarnath)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/helloamarnath)
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**FrontEnd - ReactJS Ecommerce Application Admin Panel with RestAPI**](https://github.com/denocart/ecommerce-reactjs-rest-api) | [![GitHub issues](https://img.shields.io/github/issues/denocart/ecommerce-reactjs-rest-api?color=green&logo=github&style=flat)](https://github.com/denocart/ecommerce-reactjs-rest-api/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/denocart/ecommerce-reactjs-rest-api?style=flat&logo=github)](https://github.com/denocart/ecommerce-reactjs-rest-api/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/denocart/ecommerce-reactjs-rest-api?style=flat&color=critical&logo=github)](https://github.com/denocart/ecommerce-reactjs-rest-api/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**BackEnd - Ecommerce Application RestAPI using NodeJS,Typescript and MongoDB**](https://github.com/denocart/ecommerce-nodejs-rest-api) | [![GitHub issues](https://img.shields.io/github/issues/denocart/ecommerce-nodejs-rest-api?color=green&logo=github&style=flat)](https://github.com/denocart/ecommerce-nodejs-rest-api/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/denocart/ecommerce-nodejs-rest-api?style=flat&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/denocart/ecommerce-nodejs-rest-api?style=flat&color=critical&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**Frontend - NextJS Ecommerce Application User Shopping cart with RestAPI**](https://www.helloamarnath.com) |🗓️  Planned  |  |  |
+ [**BackEnd - Ecommerce Application RestAPI using NodeJS,Typescript and MongoDB**](https://github.com/denocart/ecommerce-nodejs-rest-api) | [![GitHub issues](https://img.shields.io/github/issues/denocart/ecommerce-nodejs-rest-api?color=green&logo=github&style=flat)](https://github.com/denocart/ecommerce-nodejs-rest-api/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/denocart/ecommerce-nodejs-rest-api?style=flat&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/denocart/ecommerce-nodejs-rest-api?style=flat&color=critical&logo=github)](https://github.com/denocart/ecommerce-nodejs-rest-api/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <br />
-**visit my portfolio & Blog  on ([www.helloamarnath.com](https://www.helloamarnath.com))!** :heart: 💬
+**visit my portfolio & Blog  on ([www.helloamarnath.com](https://www.helloamarnath.com))** :heart: 💬
 
 - 🔭 I’m currently working on ReactJS, GraphQL, NodeJS and DenoJS
 - 🌱 I’m currently Learning GraphQL & DenoJS
