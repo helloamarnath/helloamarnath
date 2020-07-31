@@ -3,7 +3,11 @@
 <br />
 The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/helloamarnath/) Outside of [GitHub](https://github.com/helloamarnath/), catch me for a quick best of 3 in the  🍔 &nbsp; **Food** court with foodies, 💻 &nbsp;  workspace and You can **find me on [LinkedIn](https://www.linkedin.com/in/helloamarnath/)**, Currently I'm **looking for opensource contributions** for my following projects:
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/helloamarnath) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/helloamarnath)
+![Github Followers](https://img.shields.io/github/followers/helloamarnath?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/helloamarnath?label=Follow&style=social)
+
+<a href="https://www.linkedin.com/in/helloamarnath/">
+    <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Support me on LinkedIn" /></a>
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
