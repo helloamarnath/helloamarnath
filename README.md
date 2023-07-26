@@ -19,7 +19,7 @@ The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=r
 <br />
 <a href="https://www.buymeacoffee.com/amarnath" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <br />
-  **visit my portfolio & Blog ** 🌍 &nbsp; https://www.helloamarnath.com  :heart: &nbsp;
+  **visit my portfolio & Blog ** 🌍 &nbsp; https://www.amarnath.org  :heart: &nbsp;
 
 - 🔭 I’m currently working on ReactJS, GraphQL, NodeJS and DenoJS
 - 🌱 I’m currently Learning GraphQL & DenoJS
@@ -33,7 +33,7 @@ The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=r
 📩 &nbsp; Feel free to contact me. I am always there for you...
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/linkedin-icon.png)](https://www.linkedin.com/in/helloamarnath/) &nbsp;&nbsp; [![Twitter](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/twitter-icon.png)](https://twitter.com/helloamarnath/) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/instagram-icon.png)](https://www.instagram.com/helloamarnath/) &nbsp;&nbsp; [![Facebook](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/facebook-icon.png)](https://facebook.com/helloamarnath/)
-&nbsp;&nbsp; [![Facebook](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/whatsapp.png)](https://facebook.com/helloamarnath/)
+&nbsp;&nbsp; [![Facebook](https://raw.githubusercontent.com/helloamarnath/helloamarnath/master/whatsapp.png)](https://wa.me/+919865728321?text=I'm%20interested%20to%20work%20with%20you)
 
 <br/>
 ✊🏿 &nbsp; Black Lives Matter.
