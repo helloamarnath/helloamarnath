@@ -19,7 +19,7 @@ The green dots on my [**GitHub** profile](https://github.com/helloamarnath?tab=r
 <br />
 <a href="https://www.buymeacoffee.com/amarnath" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <br />
-  **visit my portfolio & Blog ** 🌍 &nbsp; https://www.amarnath.org  :heart: &nbsp;
+  **visit my portfolio & Blog ** 🌍 &nbsp; https://www.amarnathrajapandian.com  :heart: &nbsp;
 
 - 🔭 I’m currently working on ReactJS, GraphQL, NodeJS and DenoJS
 - 🌱 I’m currently Learning GraphQL & DenoJS
